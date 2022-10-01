@@ -1,0 +1,432 @@
+#tytul {
+			padding-top: 20px;
+			font-size: 50px;
+			width: 1200px;
+			height: 85px;
+			margin-left: 350px;
+			background-color: #00001a;
+			text-align: center;
+			color: #ffffff;
+			}
+		#tekst1 {
+			font-size:20px;
+			padding-top: 20px;
+			width: 1200px;
+			height: 50px;
+			margin-left: 350px;
+			background-color: #dba9db;
+			text-align: center;
+			color: #2c2c30;
+			}	
+		ul {   
+		list-style-type: none;   
+		margin: 0;   
+		padding: 0;   
+		overflow: hidden;    
+			} 
+		
+		li {
+		float: left; 
+			}  
+		
+		li a {  
+		font-size: 20px;
+		display: inline-block;   
+		color: black;   
+		text-align: center;   
+		padding: 100px 100px;   
+		text-decoration: none; 
+			} 
+		
+		li a:hover {  
+			
+			padding: 90px 100px;
+			background-color: #111; 
+			}
+			
+		body {
+		background-image: url('bg.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+			}
+		#trasa1 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 400px;
+			margin-top: 100px;
+			text-align: center;
+			background-image: url('czestochowa.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa1_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 400px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#trasa2 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 800px;
+			margin-top: -220px;
+			text-align: center;
+			background-image: url('poraj.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa2_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 800px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#trasa3 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 1200px;
+			margin-top: -220px;
+			text-align: center;
+			background-image: url('olsztyn.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa3_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 1200px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#trasa4 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 400px;
+			margin-top: 100px;
+			text-align: center;
+			background-image: url('konopiska.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa4_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 400px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#trasa5 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 800px;
+			margin-top: -220px;
+			text-align: center;
+			background-image: url('zarki.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa5_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 800px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#trasa6 {
+			border-color:#00001a;
+			border-style: inset;
+			border-width: 10px;
+			width: 200px;
+			height: 175px;
+			margin-left: 1200px;
+			margin-top: -220px;
+			text-align: center;
+			background-image: url('choron.JPG');
+			background-repeat: no-repeat;
+			background-attachment: auto;
+			background-size: cover;
+			color: #2c2c30;
+			}
+		#trasa6_txt {
+			font-size: 20px;
+			width: 220px;
+			height: 25px;
+			margin-left: 1200px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#poraj {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+		}
+		#poraj_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#poraj_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #b3b300;
+			background-color: #00001a
+			}
+		#poraj_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#czestochowa {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+			}
+		#czestochowa_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#czestochowa_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #b3b300;
+			background-color: #00001a
+			}
+		#czestochowa_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#olsztyn {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+			}
+		#olsztyn_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#olsztyn_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#olsztyn_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #ff3333;
+			background-color: #00001a
+			}
+		#konopiska {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+			}
+		#konopiska_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#konopiska_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #b3b300;
+			background-color: #00001a
+			}
+		#konopiska_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#zarki {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+		}
+		#zarki_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#zarki_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #b3b300;
+			background-color: #00001a
+			}
+		#zarki_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#choron {
+			margin-left: 0px;
+			text-align: center;
+			color: #ffffff;
+		}
+		#choron_txt1 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-left: 700px;
+			text-align: center;
+			color: #ffffff;
+			background-color: #00001a
+			}
+		#choron_txt2 {
+			font-size: 20px;
+			width: 440px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 1095px;
+			text-align: center;
+			color: #80ff80;
+			background-color: #00001a
+			}
+		#choron_txt3 {
+			font-size: 20px;
+			width: 400px;
+			height: 75px;
+			margin-top: -75px;
+			margin-left: 330px;
+			text-align: center;
+			color: #b3b300;
+			background-color: #00001a
+			}
+		#podpis {
+			font-size:20px;
+			width: 1200px;
+			height: 30px;
+			margin-top: 78.4px;
+			margin-left: 350px;
+			background-color: #00001a;
+			text-align: center;
+			color: #ffffff;	
+		}
+		#login {
+			font-size:20px;
+			width: 100px;
+			height: 30px;
+			margin-top: -900px;
+			margin-left: 1750px;
+			background-color: #00001a;
+			text-align: center;
+			color: #ffffff;		
+		}
+		#rejestracja {
+			font-size:20px;
+			width: 100px;
+			height: 30px;
+			margin-top: -30px;
+			margin-left: 1600px;
+			background-color: #00001a;
+			text-align: center;
+			color: #ffffff;		
+		}
+
+		
